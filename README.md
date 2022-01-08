@@ -24,9 +24,9 @@ A. Data Sebelum di Insert Terbaru
 ![image](https://user-images.githubusercontent.com/46914608/148629733-10a2150e-5c89-481f-889c-c76ee1001661.png)
 
 B. Tampilan Form Data Transaksi
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/46914608/148629885-bf5ef9d1-1108-46e3-aeeb-d8355921b7d4.png)
 
 C. Tampilan Setelah Sukses
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/46914608/148629902-da10d936-a463-4c3d-8cc5-eb212b65cec8.png)
 
 # Terimakasih
